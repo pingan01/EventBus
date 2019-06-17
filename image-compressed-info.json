@@ -1,0 +1,66 @@
+[
+    {
+        "preSize": 15132,
+        "outputPath": "\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "md5": "b2c6c0becdbb5afd0b4a6e67f5b4b5f9",
+        "ratio": "49%",
+        "compressedSize": 7444,
+        "path": "\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "preSize": 9128,
+        "outputPath": "\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png",
+        "md5": "7c4d1fc0e05761afcb20368d935446cb",
+        "ratio": "54%",
+        "compressedSize": 4960,
+        "path": "\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "preSize": 10413,
+        "outputPath": "\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "md5": "0ca0298d4ee0e1792850a6f282064c71",
+        "ratio": "53%",
+        "compressedSize": 5543,
+        "path": "\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "preSize": 6387,
+        "outputPath": "\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png",
+        "md5": "7feaec5bf71f7ab382cd5c95d666de9e",
+        "ratio": "59%",
+        "compressedSize": 3821,
+        "path": "\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "preSize": 6895,
+        "outputPath": "\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png",
+        "md5": "a04235eae99d2055c8e4fd526ba4c158",
+        "ratio": "58%",
+        "compressedSize": 4001,
+        "path": "\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "preSize": -1,
+        "outputPath": "\\app\\src\\main\\res\\drawable\\two.png",
+        "md5": "a2955ee5874da6639d55ce78a698ef76",
+        "ratio": "",
+        "compressedSize": -1,
+        "path": "\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "preSize": 877827,
+        "outputPath": "\\app\\src\\main\\res\\drawable\\test.png",
+        "md5": "02ae9d8e7199e85847ab242fa33ac96a",
+        "ratio": "44%",
+        "compressedSize": 388111,
+        "path": "\\app\\src\\main\\res\\drawable\\test.png"
+    },
+    {
+        "preSize": 872835,
+        "outputPath": "\\app\\src\\main\\res\\drawable\\one.png",
+        "md5": "530401fd01d17c90961c2533aa500378",
+        "ratio": "44%",
+        "compressedSize": 390057,
+        "path": "\\app\\src\\main\\res\\drawable\\one.png"
+    }
+]
